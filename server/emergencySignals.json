@@ -1,0 +1,80 @@
+[
+  {
+    "deviceName": "TestDevice",
+    "battery": 50,
+    "status": "critical",
+    "timestamp": "2026-04-25T19:20:48.741Z"
+  },
+  {
+    "deviceName": "TestDevice",
+    "battery": 50,
+    "status": "critical",
+    "timestamp": "2026-04-25T19:21:14.060Z"
+  },
+  {
+    "deviceName": "TestDevice",
+    "battery": 50,
+    "status": "critical",
+    "timestamp": "2026-04-25T19:22:20.581Z"
+  },
+  {
+    "deviceName": "TestDevice",
+    "battery": 50,
+    "status": "critical",
+    "timestamp": "2026-04-25T19:23:21.423Z"
+  },
+  {
+    "deviceName": "Redmi Note 13 Pro 5G",
+    "battery": 10,
+    "status": "critical",
+    "timestamp": "2026-04-25T19:31:25.716Z"
+  },
+  {
+    "deviceName": "Redmi Note 13 Pro 5G",
+    "battery": 10,
+    "status": "critical",
+    "timestamp": "2026-04-25T19:31:57.191Z"
+  },
+  {
+    "deviceName": "Redmi Note 13 Pro 5G",
+    "battery": 10,
+    "status": "critical",
+    "timestamp": "2026-04-25T19:32:10.535Z"
+  },
+  {
+    "deviceName": "Redmi Note 13",
+    "battery": 10,
+    "status": "critical",
+    "timestamp": "2026-04-25T19:33:50.406Z"
+  },
+  {
+    "deviceName": "Redmi Note 13",
+    "battery": 10,
+    "status": "critical",
+    "timestamp": "2026-04-25T19:33:54.513Z"
+  },
+  {
+    "deviceName": "Redmi Note 13",
+    "battery": 10,
+    "status": "critical",
+    "timestamp": "2026-04-25T19:34:00.814Z"
+  },
+  {
+    "deviceName": "Redmi Note 13",
+    "battery": 10,
+    "status": "critical",
+    "timestamp": "2026-04-25T19:34:01.662Z"
+  },
+  {
+    "deviceName": "Redmi Note 13",
+    "battery": 10,
+    "status": "critical",
+    "timestamp": "2026-04-25T19:34:20.070Z"
+  },
+  {
+    "deviceName": "Redmi Note 13",
+    "battery": 10,
+    "status": "critical",
+    "timestamp": "2026-04-25T19:34:28.315Z"
+  }
+]
