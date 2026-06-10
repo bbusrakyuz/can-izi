@@ -31,3 +31,19 @@ Bu uygulama, afet bölgelerinde mağdurların acil durum sinyallerini göndermes
 - Server, sinyalleri loglar ve masaüstü app'e iletir.
 
 Not: MAC adresi ve batarya için gerçek kütüphaneler ekleyin (react-native-device-info, react-native-get-mac-address).
+## Kullanılan Teknolojiler
+- React Native
+- Expo
+- Node.js
+- Axios
+- expo-battery
+- expo-device
+
+## Özellikler
+- Acil durum sinyali gönderme
+- Cihaz adı ve batarya bilgisi alma
+- API sunucusuna veri gönderme
+- Kurtarıcı radar sistemi için veri altyapısı
+
+## Proje Durumu
+Proje mobil prototip aşamasındadır. Bluetooth/Wi-Fi sinyal tarama ve radar görselleştirme özellikleri geliştirme aşamasındadır.
